@@ -1,0 +1,3 @@
+export enum ERROR_CODES {
+    INCORRECT_PASSWORD = 1101
+}
